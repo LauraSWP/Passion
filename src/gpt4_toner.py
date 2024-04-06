@@ -59,13 +59,6 @@ config = {
 }
 
 def adjust_tone_of_responses(user_message, num_replies=5):
-    """
-    Generate multiple response alternatives for a user message.
-    
-    :param user_message: The message from the user.
-    :param num_replies: The number of response alternatives to generate.
-    :return: A list of response alternatives.
-    """
     responses = []
     for _ in range(num_replies):
         response = openai.chat.completions.create(
@@ -74,8 +67,8 @@ def adjust_tone_of_responses(user_message, num_replies=5):
                 {"role": "system", "content": config['setup']},
                 {"role": "user", "content": user_message}
             ],
-            temperature=0.7,  # Adjust temperature for creativity
-            max_tokens=150    # Adjust max_tokens as necessary
+            temperature=0.7,  
+            max_tokens=150    
         )
         # Extract and clean the response
         reply = response.choices[0].message.content.strip()

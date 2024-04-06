@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ### Run the script
 
-Before running the script, make sure you prepared your data before. With your new branch, work on the raw data JSON at ```knowledgebase-raw.json``` including the question, answer, category and human required fields as the previous entries.
+Before running the script, make sure you prepared your data before. With your new branch, work on the raw data JSON at **knowledgebase-raw.json** including the question, answer, category and human required fields as the previous entries.
 Once this is done, run the main.py script to create a new finetuned file, this script basically asks our assistant to transform the replies to replies using this tone.
 
 When this is done, commit your changes to your branch, I will merge them into the final training file each time.

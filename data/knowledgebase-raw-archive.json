@@ -1,0 +1,79 @@
+{
+    "tickets": [
+      {
+        "id": "T1",
+        "category": "TECHNICAL ISSUES",
+        "transferToHuman": "YES",
+        "conversation": [
+          {
+            "role": "user",
+            "message": "My team has been sending passion support tickets since Friday about a full on glitch that isn't letting anyone see their workshops. We're mid launch, this has to be fixed asap. I want to know what's going on with this and why we haven’t heard anything."
+          },
+          {
+            "role": "assistant",
+            "message": "I hope your day has been fantastic so far! 🌟 Thank you for reaching out. Rest assured, I'll pass this along to our Product Support team to dig into it. Your patience is greatly appreciated. 🙏"
+          }
+        ]
+      },
+      {
+        "id": "T2",
+        "category": "TECHNICAL ISSUES",
+        "transferToHuman": "YES",
+        "conversation": [
+          {
+            "role": "user",
+            "message": "Hi When you download my APP from the APP Store it will not allow you to log-in it is just showing the 3 dots on the screen. This is urgent as I have a new Program starting and my new members and now myself as I logged out to check can gain access as this is urgent as I have sold this program with Free Bonuses that they should have access to now but they can’t access the APP Please help ASAP"
+          },
+          {
+            "role": "assistant",
+            "message": "Hi, I hope this email finds you well and in good health. Can you please try this basic troubleshooting? iOS Native App 1. Head over to the 'Settings' app on your iOS device 2. 'General' settings 3. Now tap on the 'iPhone storage' option > choose the app 4. Offload the App from your iPhone 5. Reinstall the app If the problem persists, please provide us with more context or a screen recording of what's happening from your end so we can work on a solution. If you have other concerns, please don't hesitate to contact us or check our Help Center article: What are the troubleshooting steps I need to follow before reporting a bug? If there's anything else you would like me to help you with, please reply to this email and I will be happy to help you."
+          }
+        ]
+      },
+      {
+        "id": "T3",
+        "category": "TECHNICAL ISSUES",
+        "transferToHuman": "YES",
+        "conversation": [
+          {
+            "role": "user",
+            "message": "Hi Guys, Pls can you investigate re access to app? This lady [EMAIL] is getting a locked sign to the audio coaching sessions - can you investigate? Her account in Passion looks in order...I can see she is due to renew her annual which she is doing but it still shows she has access - can you please help asap. Thank you"
+          },
+          {
+            "role": "assistant",
+            "message": "Hi, Thank you for bringing this to our attention. We checked the access of this user for both the Audio Programs you have on the App which are the Audio Coaching Library and Mini Audio Coaching series and it shows that she has access to both. You may please advise her to please try the troubleshooting measures below, which should fix the issue: Web App (Google Chrome/Mozilla Firefox/Safari) 1. Clear your cache and cookies 2. Update your browser 3. Login again Android Native App 1. Head over to the 'Settings' app on your device> Manage app > Choose app 2. Stored data > Clear stored data and cache 3. Log back into the app iOS Native App 1. Head over to the 'Settings' app on your iOS device 2. 'General' settings 3. Now tap on the 'iPhone storage' option > choose the app 4. Offload the App from your iPhone 5. Reinstall the app If the problem persists, please provide us with more context or a screen recording of what's happening from your end so we can work on a solution."
+          }
+        ]
+      },
+      {
+        "id": "T4",
+        "category": "TECHNICAL ISSUES",
+        "transferToHuman": "YES",
+        "conversation": [
+          {
+            "role": "user",
+            "message": "Dear Sirs, On 19th of October we had contact with one of your helpdesk employees regarding the fact that we can not add tracking goals in the app. You said the problem would be passed on to the tech team and the problem would be fixed as soon as possible. We are a couple of weeks further and we still have the same problem. This is costing us money in not being able to launch the app and it is costing us the monthly fee. What is the status of the fix right now? And when will this problem be solved?"
+          },
+          {
+            "role": "assistant",
+            "message": "Hi, Thank you for reaching out,I am glad to be of help. This is to let you know that we have fixed this issue, and depending on the platform you used, you can sign out and sign in again into your admin account to test if it is now working. 🙂 If there's anything else you'd like me to help you with, please reply to this email and I will be happy to help you."
+          }
+        ]
+      },
+      {
+        "id": "T5",
+        "category": "TECHNICAL ISSUES",
+        "transferToHuman": "NO",
+        "conversation": [
+          {
+            "role": "user",
+            "message": "Hi, One of my test-users don’t show up passionMetrics but she says she has a profile and she sent me a picture of it. She does not have access to the course (and i can’t giveitto her as i cant ser her on my list). Can you help me?"
+          },
+          {
+            "role": "assistant",
+            "message": "Hi, I hope this email finds you well. Thank you for your patience. I have forwarded this technical issue, and I apologize for any inconvenience it may have caused you. As we've experienced a massive blow, which should fix the issue: Web App (Google Chrome/Mozilla Firefox/Safari) 1. Clear your cache and cookies 2. Update your browser 3. Login again Android Native App 1. Head over to the 'Settings' app on your device> Manage app > Choose app 2. Stored data > Clear stored data and cache 3. Log back into the app iOS Native App 1. Head over to the 'Settings' app on your iOS device 2. 'General' settings 3. Now tap on the 'iPhone storage' option > choose the app 4. Offload the App from your iPhone 5. Reinstall the app If the problem persists, please provide us with more context or a screen recording of what's happening from your end so we can work on a solution. If there's anything else you'd like me to help you with, please reply to this email and I will be happy to help you."
+          }
+        ]
+      }
+    ]
+  }

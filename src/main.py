@@ -12,7 +12,7 @@ COLORS = ['\033[91m', '\033[93m', '\033[94m', '\033[95m', '\033[96m']
 RESET_TEXT = '\033[0m'
 
 # Technician's name
-technician_name = 'Laura'
+technician_name = 'Star'
 
 def load_json_file(file_path):
     """Load and return the content of a JSON file.

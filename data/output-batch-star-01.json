@@ -1,0 +1,109 @@
+{
+    "tickets": [
+        {
+            "id": "T1",
+            "category": "TECHNICAL ISSUES",
+            "transferToHuman": "YES",
+            "conversation": [
+                {
+                    "role": "user",
+                    "message": "My team has been sending passion support tickets since Friday about a full on glitch that isn't letting anyone see their workshops. We're mid launch, this has to be fixed asap. I want to know what's going on with this and why we haven’t heard anything."
+                },
+                {
+                    "role": "assistant",
+                    "message": [
+                        "Hey there! 😟 I'm really sorry to hear about the trouble you're facing, especially during such a crucial time. I understand how frustrating this must be. Let me quickly transfer you to a human support team member who can provide you with the latest updates and help sort this out ASAP. Hang tight! 🚀",
+                        "Oh no, that sounds incredibly frustrating, especially during such a crucial time as your launch! 😟 I'm truly sorry to hear about this glitch and the delay in response. Let me escalate this issue right away to our support team so they can prioritize it and get back to you as quickly as possible. I understand how important this is for you and your team. You'll be transferred to a human who can dive deeper into this issue. Hang tight! 🚀",
+                        "Oh no, I'm really sorry to hear you're experiencing this issue during such a crucial time. 😟 It sounds like you need immediate attention on this. I'm going to escalate this to our human support team right away so they can look into your tickets and get this sorted for you as soon as possible. Hang tight, you're being transferred to someone who can help. 🚀",
+                        "Hey there! 😟 I'm really sorry to hear about the trouble you've been facing, especially during such a crucial time as your launch. I understand how frustrating this must be. Let's get you connected to our human support team right away so they can look into this and provide you with an update. Transferring you now! 🚀",
+                        "Oh no! 😟 I'm really sorry to hear that you're facing this issue during such a critical time. I understand how important it is for you and your team, especially mid-launch. Let me quickly get you connected to a human on our support team who can take a closer look and give you an update. One moment, please! 🚀"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "T2",
+            "category": "TECHNICAL ISSUES",
+            "transferToHuman": "YES",
+            "conversation": [
+                {
+                    "role": "user",
+                    "message": "Hi When you download my APP from the APP Store it will not allow you to log-in it is just showing the 3 dots on the screen. This is urgent as I have a new Program starting and my new members and now myself as I logged out to check can gain access as this is urgent as I have sold this program with Free Bonuses that they should have access to now but they can’t access the APP Please help ASAP"
+                },
+                {
+                    "role": "assistant",
+                    "message": [
+                        "Hey there! 😊 I'm really sorry to hear about the trouble you're experiencing with the login issue. That definitely sounds frustrating, especially with your new program starting. Let's sort this out quickly. \n\nSince I can't check the specifics of your app or make direct changes, I'm going to transfer you to a human expert who can dive deeper into this issue. They'll be with you shortly to get everything sorted. Hang tight, and thanks for your patience! 🚀",
+                        "Hey there! 🌟 I'm really sorry to hear you're facing login issues with your app. That sounds frustrating, especially with your new program launch. Let's try to sort this out quickly. Could I suggest clearing the app's cache or trying a reinstall first? This often fixes such glitches. If you've already tried this and it's still not working, I'll need to escalate this to a human team member for further assistance. Just let me know how it goes, or if you want me to transfer you straight away. 🚀",
+                        "Hey there! 😊 I'm really sorry to hear you're facing this issue with the app login. It sounds quite frustrating, especially with your new program launch on the line. Let's get this sorted out quickly! 🚀\n\nI'm going to transfer you to a human support team member who can dive deeper into this and help resolve it ASAP. Hold tight, and thanks for your patience! 🙏",
+                        "Hey there! 😊 I'm really sorry to hear you're facing login issues with your app, especially with your new program starting. That sounds quite stressful. Let's get you some help right away. 🚀 I'm going to transfer you to a human support team member who can look into this urgently for you. Hang tight, and thank you for your patience! 🙏",
+                        "Hey there! 😊 I'm really sorry to hear you're facing issues with the login process. It sounds quite frustrating, especially with your new program launch on the line. Let's try to get this sorted out for you as quickly as possible.\n\nFor a start, could you please try the following steps to see if it helps resolve the issue?\n1. Ensure that the app is updated to the latest version.\n2. Try uninstalling and reinstalling the app.\n3. Check if your device's internet connection is stable.\n\nIf these steps don't do the trick, I'll need to escalate this to our technical team for further assistance. Just let me know how it goes, and we can take it from there. 👨‍"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "T3",
+            "category": "TECHNICAL ISSUES",
+            "transferToHuman": "YES",
+            "conversation": [
+                {
+                    "role": "user",
+                    "message": "Hi Guys, Pls can you investigate re access to app? This lady [EMAIL] is getting a locked sign to the audio coaching sessions - can you investigate? Her account in Passion looks in order...I can see she is due to renew her annual which she is doing but it still shows she has access - can you please help asap. Thank you"
+                },
+                {
+                    "role": "assistant",
+                    "message": [
+                        "Hey there! 👋 It sounds like there's an issue with access for your user. Unfortunately, I can't peek into accounts or fix access issues directly. 😔 Let's get you over to a human who can dive deeper into this. You'll be transferred now to someone who can help sort this out ASAP. Hang tight! 🚀",
+                        "Hey there! 😊 It sounds like there's a hiccup with access to the audio coaching sessions for your user. I'm really sorry for the inconvenience this is causing. Unfortunately, I don't have the capability to check individual accounts or make direct changes from here. But no worries, I'll transfer this to a member of our team who can investigate and get this sorted for you asap. Hang tight! 🚀",
+                        "Hey there! 😊 I'm really sorry to hear about the trouble with accessing the audio coaching sessions. Unfortunately, I'm not able to directly investigate accounts or resolve access issues from here. But, no worries! I'll quickly transfer you to a human support team member who can take a closer look and help sort this out ASAP. Hang tight, and thanks for your patience! 🚀",
+                        "Hey there! 🌟 I understand how important it is for your user to have seamless access to the audio coaching sessions. I'd love to help look into this further, but I'll need to pass this on to a team member who can directly access account details and investigate this for you. 😊\n\nYou're being transferred to a human now, and they'll take it from here. Thanks for your patience!",
+                        "Hey there! 🌟 I totally get how important it is to ensure your user has smooth access. Unfortunately, I can't directly check accounts or fix access issues from here. No worries, though! I'll get you over to a human teammate who can dive into this and help out. Sit tight, you're being transferred now. 🚀"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "T4",
+            "category": "TECHNICAL ISSUES",
+            "transferToHuman": "YES",
+            "conversation": [
+                {
+                    "role": "user",
+                    "message": "Dear Sirs, On 19th of October we had contact with one of your helpdesk employees regarding the fact that we can not add tracking goals in the app. You said the problem would be passed on to the tech team and the problem would be fixed as soon as possible. We are a couple of weeks further and we still have the same problem. This is costing us money in not being able to launch the app and it is costing us the monthly fee. What is the status of the fix right now? And when will this problem be solved?"
+                },
+                {
+                    "role": "assistant",
+                    "message": [
+                        "Hey there! 😊 I'm really sorry to hear about the trouble you've been facing with adding tracking goals in your app. I understand how frustrating this must be, especially with the impact it's having on your launch plans. \n\nI'm not able to check the status of the fix directly, but I'm going to transfer you to someone who can provide you with the latest updates and help resolve this as quickly as possible. Hang tight, and thanks for your patience! 🌟",
+                        "Hey there! 😊 I'm really sorry to hear you're still facing issues with adding tracking goals in your app. I understand how important this is for your launch and truly apologize for the inconvenience. Let me quickly escalate this to our tech team for an urgent update. I'll ensure they reach out with a status on the fix and a timeline for resolution. Thank you for your patience! 🚀 Transferring you now...",
+                        "Hi there! 😊 I'm really sorry to hear you're still facing issues with adding tracking goals in your app. I understand how crucial this is for your launch and the inconvenience it's causing. I'll need to escalate this to get you the latest update directly from our tech team. 🚀 You're being transferred to a human colleague who will assist you further. Thank you for your patience, and we're on it!",
+                        "Hi there! 😊 I'm really sorry to hear about the ongoing issue with adding tracking goals in your app. I understand how crucial this feature is for your launch and the inconvenience it has caused. Let me quickly escalate this to our tech team to get an update for you. Hang tight! You'll be transferred to a human who can provide more details. Thanks for your patience! 🌟",
+                        "Hey there! 👋 I'm truly sorry to hear about the ongoing issue with adding tracking goals in your app. I understand how crucial it is for your launch and the inconvenience it's causing. 🛠️ Let me quickly escalate this to our tech team for an update on the status and an estimated resolution time. I’ll ensure they understand the urgency. Hang tight, and I'll get you over to someone who can provide more detailed info. Transferring you now... 🔄"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "T5",
+            "category": "TECHNICAL ISSUES",
+            "transferToHuman": "NO",
+            "conversation": [
+                {
+                    "role": "user",
+                    "message": "Hi, One of my test-users don’t show up passionMetrics but she says she has a profile and she sent me a picture of it. She does not have access to the course (and i can’t giveitto her as i cant ser her on my list). Can you help me?"
+                },
+                {
+                    "role": "assistant",
+                    "message": [
+                        "Hey there! 👋 It sounds like there's a hiccup with your test-user not showing up in PassionMetrics and not having access to the course. 🤔 Let's sort this out for you! Since I can't check your account details directly, I'm going to transfer you to a human who can dive deeper into this issue. Hang tight, and you'll be connected shortly! 🚀",
+                        "Hey there! 🌟 It sounds like we need to do a bit of digging to sort this out. Since I can't directly check the details or make changes from here, I'm going to transfer you over to a human who can take a closer look and get things sorted for you. Hang tight, and thanks for your patience! 🚀",
+                        "Hey there! 👋 It sounds like there's a hiccup with one of your test-users not showing up in PassionMetrics and not having access to the course. No worries, I can help guide you through some checks. First, could you please ensure that the user has completed their profile setup and is using the same email they were invited with? Sometimes, these details can cause visibility issues. \n\nIf everything seems correct on their end and the issue persists, I'll need to escalate this to our tech team for a closer look. 🛠️ Since I can't directly check the details on my end, I'll transfer you to a human teammate who can dive deeper into this. Hang tight, you're being transferred now! 🔄",
+                        "Hey there! 🌟 It sounds like there's a hiccup with your test-user not showing up in PassionMetrics and not having access to the course. No worries, I'm here to help! Since this involves checking specific account details, I'll need to transfer you to a human team member who can dive deeper into this issue. They'll be able to sort this out for you. Hang tight, I'm transferring you now! 🔄",
+                        "Hey there! 😊 It sounds like there's a hiccup with your test-user appearing in PassionMetrics and accessing the course. No worries, let's get this sorted! Since I can't directly check the details or make changes from here, I'll need to transfer you to a human who can dive deeper into this issue. They'll be able to help you out. Hang tight, transferring you now! 🚀"
+                    ]
+                }
+            ]
+        }
+    ]
+}

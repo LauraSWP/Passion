@@ -116,3 +116,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+src/main.py
+data/knowledgebase-raw.json

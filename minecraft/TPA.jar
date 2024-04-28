@@ -1,0 +1,47 @@
+import org.bukkit.command.Command;
+import org.bukkit.command.CommandExecutor;
+import org.bukkit.command.CommandSender;
+import org.bukkit.entity.Player;
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class TeleportPlugin extends JavaPlugin implements CommandExecutor {
+
+    @Override
+    public void onEnable() {
+        getCommand("tpa").setExecutor(this);
+    }
+
+    @Override
+    public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
+        if (!(sender instanceof Player)) {
+            sender.sendMessage("Only players can use this command.");
+            return true;
+        }
+
+        Player player = (Player) sender;
+
+        if (cmd.getName().equalsIgnoreCase("tpa")) {
+            if (args.length != 3) {
+                player.sendMessage("Usage: /tpa <x> <y> <z>");
+                return true;
+            }
+
+            double x, y, z;
+
+            try {
+                x = Double.parseDouble(args[0]);
+                y = Double.parseDouble(args[1]);
+                z = Double.parseDouble(args[2]);
+            } catch (NumberFormatException e) {
+                player.sendMessage("Invalid coordinates.");
+                return true;
+            }
+
+            player.teleport(player.getWorld().getBlockAt((int) x, (int) y, (int) z).getLocation());
+            player.sendMessage("Teleported to " + x + ", " + y + ", " + z);
+            return true;
+        }
+
+        return false;
+    }
+}
